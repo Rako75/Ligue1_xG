@@ -43,6 +43,3 @@ pandas, numpy, matplotlib, seaborn, PIL
 bs4, requests (préparé mais non utilisé)
 
 highlight_text, adjustText, fuzzywuzzy
-
-# 📷 Résultat
-L’image finale affiche les courbes xG sur 10 matchs pour chaque équipe, avec un fond en dégradé reflétant l'écart offensif/défensif.
