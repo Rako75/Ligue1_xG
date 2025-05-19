@@ -1,0 +1,381 @@
+﻿Wk;Day;Date;Time;Home;xG;Score;xG;Away;Venue
+1;Fri;05/08/2022;21:00;Lyon;1.3;2–1;1.5;Ajaccio;Groupama Stadium
+1;Sat;06/08/2022;17:00;Strasbourg;0.8;1–2;2.8;Monaco;Stade de la Meinau
+1;Sat;06/08/2022;21:00;Clermont Foot;0.3;0–5;3.5;Paris S-G;Stade Gabriel Montpied
+1;Sun;07/08/2022;13:00;Toulouse;0.9;1–1;1.2;Nice;Stadium Municipal
+1;Sun;07/08/2022;15:00;Angers;1.5;0–0;1.5;Nantes;Stade Raymond Kopa
+1;Sun;07/08/2022;15:00;Lille;2.4;4–1;0.6;Auxerre;Stade Pierre-Mauroy
+1;Sun;07/08/2022;15:00;Montpellier;1.7;3–2;2.0;Troyes;Stade de la Mosson
+1;Sun;07/08/2022;15:00;Lens;2.5;3–2;1.2;Brest;Stade Bollaert-Delelis
+1;Sun;07/08/2022;17:05;Rennes;1.8;0–1;1.1;Lorient;Roazhon Park
+1;Sun;07/08/2022;20:45;Marseille;2.1;4–1;0.9;Reims;Orange Vélodrome
+2;Fri;12/08/2022;21:00;Nantes;1.0;1–1;2.0;Lille;Stade de la Beaujoire - Louis Fonteneau
+2;Sat;13/08/2022;17:00;Monaco;1.8;1–1;2.1;Rennes;Stade Louis II
+2;Sat;13/08/2022;21:00;Paris S-G;3.2;5–2;0.9;Montpellier;Parc des Princes
+2;Sun;14/08/2022;15:00;Ajaccio;0.5;0–0;1.4;Lens;Stade François Coty
+2;Sun;14/08/2022;15:00;Reims;2.7;2–4;1.9;Clermont Foot;Stade Auguste-Delaune
+2;Sun;14/08/2022;15:00;Auxerre;0.8;2–2;1.4;Angers;Stade de l'Abbé Deschamps
+2;Sun;14/08/2022;15:00;Troyes;1.0;0–3;1.5;Toulouse;Stade de l'Aube
+2;Sun;14/08/2022;17:05;Nice;1.6;1–1;0.9;Strasbourg;Stade de Nice
+2;Sun;14/08/2022;20:45;Brest;2.0;1–1;0.7;Marseille;Stade Francis-Le Blé
+3;Fri;19/08/2022;21:00;Lyon;2.6;4–1;1.0;Troyes;Groupama Stadium
+3;Sat;20/08/2022;17:00;Monaco;1.6;1–4;2.5;Lens;Stade Louis II
+3;Sat;20/08/2022;21:00;Marseille;1.1;2–1;2.2;Nantes;Orange Vélodrome
+3;Sun;21/08/2022;13:00;Strasbourg;1.2;1–1;2.0;Reims;Stade de la Meinau
+3;Sun;21/08/2022;15:00;Angers;0.6;1–3;1.8;Brest;Stade Raymond Kopa
+3;Sun;21/08/2022;15:00;Clermont Foot;0.7;1–0;1.4;Nice;Stade Gabriel Montpied
+3;Sun;21/08/2022;15:00;Toulouse;1.8;2–2;2.5;Lorient;Stadium Municipal
+3;Sun;21/08/2022;15:00;Montpellier;1.0;1–2;1.3;Auxerre;Stade de la Mosson
+3;Sun;21/08/2022;17:05;Rennes;1.2;2–1;1.4;Ajaccio;Roazhon Park
+3;Sun;21/08/2022;20:45;Lille;1.7;1–7;3.4;Paris S-G;Stade Pierre-Mauroy
+4;Fri;26/08/2022;21:00;Ajaccio;1.5;1–3;1.7;Lille;Stade François Coty
+4;Sat;27/08/2022;17:00;Auxerre;0.6;1–0;1.3;Strasbourg;Stade de l'Abbé Deschamps
+4;Sat;27/08/2022;21:00;Lens;1.3;2–1;1.0;Rennes;Stade Bollaert-Delelis
+4;Sun;28/08/2022;13:00;Nantes;1.5;3–1;0.6;Toulouse;Stade de la Beaujoire - Louis Fonteneau
+4;Sun;28/08/2022;15:00;Troyes;1.9;3–1;0.7;Angers;Stade de l'Aube
+4;Sun;28/08/2022;15:00;Lorient;2.9;2–1;0.6;Clermont Foot;Stade du Moustoir
+4;Sun;28/08/2022;15:00;Nice;1.0;0–3;1.4;Marseille;Stade de Nice
+4;Sun;28/08/2022;15:00;Brest;0.3;0–7;2.5;Montpellier;Stade Francis-Le Blé
+4;Sun;28/08/2022;17:05;Reims;0.4;1–1;1.1;Lyon;Stade Auguste-Delaune
+4;Sun;28/08/2022;20:45;Paris S-G;2.7;1–1;1.2;Monaco;Parc des Princes
+5;Wed;31/08/2022;19:00;Angers;1.7;2–4;2.3;Reims;Stade Raymond Kopa
+5;Wed;31/08/2022;19:00;Lyon;2.6;2–1;0.7;Auxerre;Groupama Stadium
+5;Wed;31/08/2022;19:00;Strasbourg;0.4;1–1;1.2;Nantes;Stade de la Meinau
+5;Wed;31/08/2022;19:00;Monaco;1.2;2–4;2.2;Troyes;Stade Louis II
+5;Wed;31/08/2022;19:00;Montpellier;1.7;2–0;1.2;Ajaccio;Stade de la Mosson
+5;Wed;31/08/2022;21:00;Lens;3.0;5–2;1.1;Lorient;Stade Bollaert-Delelis
+5;Wed;31/08/2022;21:00;Marseille;2.5;1–0;0.1;Clermont Foot;Orange Vélodrome
+5;Wed;31/08/2022;21:00;Toulouse;0.8;0–3;2.8;Paris S-G;Stadium Municipal
+5;Wed;31/08/2022;21:00;Rennes;1.5;3–1;0.5;Brest;Roazhon Park
+5;Wed;31/08/2022;21:00;Lille;0.9;1–2;1.6;Nice;Stade Pierre-Mauroy
+6;Sat;03/09/2022;17:00;Auxerre;0.6;0–2;1.6;Marseille;Stade de l'Abbé Deschamps
+6;Sat;03/09/2022;19:00;Lyon;1.4;5–0;1.0;Angers;Groupama Stadium
+6;Sat;03/09/2022;21:00;Nantes;0.4;0–3;2.7;Paris S-G;Stade de la Beaujoire - Louis Fonteneau
+6;Sun;04/09/2022;13:00;Montpellier;0.5;1–3;1.6;Lille;Stade de la Mosson
+6;Sun;04/09/2022;15:00;Brest;0.8;1–1;2.4;Strasbourg;Stade Francis-Le Blé
+6;Sun;04/09/2022;15:00;Ajaccio;0.5;0–1;0.8;Lorient;Stade François Coty
+6;Sun;04/09/2022;15:00;Clermont Foot;1.3;2–0;1.3;Toulouse;Stade Gabriel Montpied
+6;Sun;04/09/2022;15:00;Reims;2.1;1–1;1.9;Lens;Stade Auguste-Delaune
+6;Sun;04/09/2022;17:05;Troyes;0.9;1–1;2.4;Rennes;Stade de l'Aube
+6;Sun;04/09/2022;20:45;Nice;0.7;0–1;1.1;Monaco;Stade de Nice
+2;Wed;07/09/2022;19:00;Lorient;1.0;3–1;2.2;Lyon;Stade du Moustoir
+7;Fri;09/09/2022;21:00;Lens;1.4;1–0;0.7;Troyes;Stade Bollaert-Delelis
+7;Sat;10/09/2022;17:00;Paris S-G;1.7;1–0;1.1;Brest;Parc des Princes
+7;Sat;10/09/2022;21:00;Marseille;2.2;2–1;1.0;Lille;Orange Vélodrome
+7;Sun;11/09/2022;13:00;Strasbourg;1.2;0–0;0.8;Clermont Foot;Stade de la Meinau
+7;Sun;11/09/2022;15:00;Ajaccio;1.2;0–1;1.2;Nice;Stade François Coty
+7;Sun;11/09/2022;15:00;Lorient;1.3;3–2;0.5;Nantes;Stade du Moustoir
+7;Sun;11/09/2022;15:00;Toulouse;1.3;1–0;1.0;Reims;Stadium Municipal
+7;Sun;11/09/2022;15:00;Angers;2.5;2–1;0.7;Montpellier;Stade Raymond Kopa
+7;Sun;11/09/2022;17:05;Rennes;1.6;5–0;0.7;Auxerre;Roazhon Park
+7;Sun;11/09/2022;20:45;Monaco;1.7;2–1;2.0;Lyon;Stade Louis II
+8;Fri;16/09/2022;21:00;Auxerre;2.0;1–3;2.5;Lorient;Stade de l'Abbé Deschamps
+8;Sat;17/09/2022;17:00;Montpellier;1.8;2–1;0.6;Strasbourg;Stade de la Mosson
+8;Sat;17/09/2022;21:00;Lille;1.0;2–1;0.8;Toulouse;Stade Pierre-Mauroy
+8;Sun;18/09/2022;13:00;Reims;0.6;0–3;1.7;Monaco;Stade Auguste-Delaune
+8;Sun;18/09/2022;15:00;Brest;0.6;0–1;0.5;Ajaccio;Stade Francis-Le Blé
+8;Sun;18/09/2022;15:00;Marseille;1.6;1–1;1.2;Rennes;Orange Vélodrome
+8;Sun;18/09/2022;15:00;Nice;1.3;0–1;1.5;Angers;Stade de Nice
+8;Sun;18/09/2022;15:00;Clermont Foot;1.0;1–3;1.5;Troyes;Stade Gabriel Montpied
+8;Sun;18/09/2022;17:05;Nantes;0.9;0–0;0.9;Lens;Stade de la Beaujoire - Louis Fonteneau
+8;Sun;18/09/2022;20:45;Lyon;1.0;0–1;1.6;Paris S-G;Groupama Stadium
+9;Fri;30/09/2022;21:00;Angers;1.2;0–3;1.6;Marseille;Stade Raymond Kopa
+9;Sat;01/10/2022;17:00;Strasbourg;1.3;1–3;3.2;Rennes;Stade de la Meinau
+9;Sat;01/10/2022;21:00;Paris S-G;1.0;2–1;0.5;Nice;Parc des Princes
+9;Sun;02/10/2022;13:00;Lorient;0.6;2–1;2.2;Lille;Stade du Moustoir
+9;Sun;02/10/2022;15:00;Troyes;1.6;2–2;1.0;Reims;Stade de l'Aube
+9;Sun;02/10/2022;15:00;Auxerre;1.4;1–1;0.6;Brest;Stade de l'Abbé Deschamps
+9;Sun;02/10/2022;15:00;Ajaccio;1.5;1–3;1.0;Clermont Foot;Stade François Coty
+9;Sun;02/10/2022;15:00;Toulouse;1.7;4–2;1.2;Montpellier;Stadium Municipal
+9;Sun;02/10/2022;17:05;Monaco;2.1;4–1;0.5;Nantes;Stade Louis II
+9;Sun;02/10/2022;20:45;Lens;2.9;1–0;0.1;Lyon;Stade Bollaert-Delelis
+10;Fri;07/10/2022;21:00;Lyon;1.4;1–1;0.5;Toulouse;Groupama Stadium
+10;Sat;08/10/2022;17:00;Marseille;1.7;1–2;0.2;Ajaccio;Orange Vélodrome
+10;Sat;08/10/2022;21:00;Reims;1.8;0–0;1.2;Paris S-G;Stade Auguste-Delaune
+10;Sun;09/10/2022;13:00;Montpellier;0.7;0–2;1.2;Monaco;Stade de la Mosson
+10;Sun;09/10/2022;15:00;Brest;0.9;1–2;1.1;Lorient;Stade Francis-Le Blé
+10;Sun;09/10/2022;15:00;Nice;2.6;3–2;1.5;Troyes;Stade de Nice
+10;Sun;09/10/2022;15:00;Clermont Foot;1.1;2–1;1.0;Auxerre;Stade Gabriel Montpied
+10;Sun;09/10/2022;15:00;Angers;2.1;2–3;2.0;Strasbourg;Stade Raymond Kopa
+10;Sun;09/10/2022;17:05;Rennes;1.8;3–0;0.5;Nantes;Roazhon Park
+10;Sun;09/10/2022;20:45;Lille;2.6;1–0;1.2;Lens;Stade Pierre-Mauroy
+11;Fri;14/10/2022;21:00;Strasbourg;0.6;0–3;2.3;Lille;Stade de la Meinau
+11;Sat;15/10/2022;17:00;Lorient;0.8;0–0;0.6;Reims;Stade du Moustoir
+11;Sat;15/10/2022;21:00;Lens;1.8;1–0;0.7;Montpellier;Stade Bollaert-Delelis
+11;Sun;16/10/2022;13:00;Toulouse;2.4;3–2;1.2;Angers;Stadium Municipal
+11;Sun;16/10/2022;15:00;Rennes;1.6;3–2;1.1;Lyon;Roazhon Park
+11;Sun;16/10/2022;15:00;Troyes;0.6;1–1;2.4;Ajaccio;Stade de l'Aube
+11;Sun;16/10/2022;15:00;Auxerre;0.8;1–1;1.6;Nice;Stade de l'Abbé Deschamps
+11;Sun;16/10/2022;15:00;Nantes;2.9;4–1;0.7;Brest;Stade de la Beaujoire - Louis Fonteneau
+11;Sun;16/10/2022;17:05;Monaco;1.1;1–1;1.9;Clermont Foot;Stade Louis II
+11;Sun;16/10/2022;20:45;Paris S-G;2.5;1–0;1.2;Marseille;Parc des Princes
+12;Fri;21/10/2022;21:00;Ajaccio;0.3;0–3;2.5;Paris S-G;Stade François Coty
+12;Sat;22/10/2022;17:00;Montpellier;1.1;1–2;2.7;Lyon;Stade de la Mosson
+12;Sat;22/10/2022;21:00;Marseille;1.8;0–1;0.9;Lens;Orange Vélodrome
+12;Sun;23/10/2022;13:00;Angers;1.2;1–2;2.2;Rennes;Stade Raymond Kopa
+12;Sun;23/10/2022;15:00;Troyes;0.8;2–2;1.4;Lorient;Stade de l'Aube
+12;Sun;23/10/2022;15:00;Toulouse;2.2;2–2;1.8;Strasbourg;Stadium Municipal
+12;Sun;23/10/2022;15:00;Reims;2.4;2–1;0.7;Auxerre;Stade Auguste-Delaune
+12;Sun;23/10/2022;15:00;Clermont Foot;1.0;1–3;3.0;Brest;Stade Gabriel Montpied
+12;Sun;23/10/2022;17:05;Nice;1.4;1–1;1.0;Nantes;Stade de Nice
+12;Sun;23/10/2022;20:45;Lille;2.5;4–3;1.1;Monaco;Stade Pierre-Mauroy
+13;Fri;28/10/2022;21:00;Lens;2.4;3–0;0.7;Toulouse;Stade Bollaert-Delelis
+13;Sat;29/10/2022;17:00;Paris S-G;2.9;4–3;2.0;Troyes;Parc des Princes
+13;Sat;29/10/2022;21:00;Strasbourg;1.1;2–2;2.0;Marseille;Stade de la Meinau
+13;Sun;30/10/2022;13:00;Auxerre;1.5;1–0;0.4;Ajaccio;Stade de l'Abbé Deschamps
+13;Sun;30/10/2022;15:00;Monaco;1.8;2–0;0.6;Angers;Stade Louis II
+13;Sun;30/10/2022;15:00;Rennes;1.2;3–0;0.9;Montpellier;Roazhon Park
+13;Sun;30/10/2022;15:00;Brest;1.5;0–0;1.0;Reims;Stade Francis-Le Blé
+13;Sun;30/10/2022;15:00;Nantes;1.7;1–1;0.7;Clermont Foot;Stade de la Beaujoire - Louis Fonteneau
+13;Sun;30/10/2022;17:05;Lorient;1.8;1–2;1.8;Nice;Stade du Moustoir
+13;Sun;30/10/2022;20:45;Lyon;1.6;1–0;1.5;Lille;Groupama Stadium
+14;Fri;04/11/2022;21:00;Troyes;1.9;1–1;1.4;Auxerre;Stade de l'Aube
+14;Sat;05/11/2022;17:00;Ajaccio;3.7;4–2;0.9;Strasbourg;Stade François Coty
+14;Sat;05/11/2022;21:00;Angers;0.5;1–2;1.8;Lens;Stade Raymond Kopa
+14;Sun;06/11/2022;13:00;Lorient;0.8;1–2;1.6;Paris S-G;Stade du Moustoir
+14;Sun;06/11/2022;15:00;Clermont Foot;3.4;1–1;1.2;Montpellier;Stade Gabriel Montpied
+14;Sun;06/11/2022;15:00;Nice;1.1;1–0;1.1;Brest;Stade de Nice
+14;Sun;06/11/2022;15:00;Toulouse;0.7;0–2;2.4;Monaco;Stadium Municipal
+14;Sun;06/11/2022;15:00;Reims;2.8;1–0;0.7;Nantes;Stade Auguste-Delaune
+14;Sun;06/11/2022;17:05;Lille;2.4;1–1;0.9;Rennes;Stade Pierre-Mauroy
+14;Sun;06/11/2022;20:45;Marseille;0.8;1–0;0.9;Lyon;Orange Vélodrome
+15;Fri;11/11/2022;21:00;Lyon;1.3;1–1;1.6;Nice;Groupama Stadium
+15;Sat;12/11/2022;17:00;Lens;1.5;2–1;0.2;Clermont Foot;Stade Bollaert-Delelis
+15;Sat;12/11/2022;21:00;Rennes;2.1;2–1;1.0;Toulouse;Roazhon Park
+15;Sun;13/11/2022;13:00;Paris S-G;2.0;5–0;0.7;Auxerre;Parc des Princes
+15;Sun;13/11/2022;15:00;Montpellier;1.7;1–1;2.1;Reims;Stade de la Mosson
+15;Sun;13/11/2022;15:00;Brest;2.4;2–1;1.0;Troyes;Stade Francis-Le Blé
+15;Sun;13/11/2022;15:00;Nantes;1.1;2–2;2.5;Ajaccio;Stade de la Beaujoire - Louis Fonteneau
+15;Sun;13/11/2022;15:00;Lille;0.6;1–0;0.6;Angers;Stade Pierre-Mauroy
+15;Sun;13/11/2022;17:05;Strasbourg;2.3;1–1;0.5;Lorient;Stade de la Meinau
+15;Sun;13/11/2022;20:45;Monaco;2.0;2–3;1.9;Marseille;Stade Louis II
+16;Wed;28/12/2022;15:00;Troyes;0.2;0–0;1.5;Nantes;Stade de l'Aube
+16;Wed;28/12/2022;15:00;Ajaccio;1.6;1–0;1.9;Angers;Stade François Coty
+16;Wed;28/12/2022;17:00;Auxerre;1.3;2–3;1.3;Monaco;Stade de l'Abbé Deschamps
+16;Wed;28/12/2022;19:00;Clermont Foot;0.7;0–2;1.6;Lille;Stade Gabriel Montpied
+16;Wed;28/12/2022;21:00;Paris S-G;2.1;2–1;1.3;Strasbourg;Parc des Princes
+16;Wed;28/12/2022;21:00;Brest;1.3;2–4;3.1;Lyon;Stade Francis-Le Blé
+16;Thu;29/12/2022;17:00;Lorient;1.0;0–2;1.7;Montpellier;Stade du Moustoir
+16;Thu;29/12/2022;19:00;Reims;1.4;3–1;1.6;Rennes;Stade Auguste-Delaune
+16;Thu;29/12/2022;21:00;Marseille;2.6;6–1;1.8;Toulouse;Orange Vélodrome
+16;Thu;29/12/2022;21:00;Nice;1.0;0–0;1.0;Lens;Stade de Nice
+17;Sun;01/01/2023;15:00;Monaco;1.4;1–0;0.8;Brest;Stade Louis II
+17;Sun;01/01/2023;15:00;Angers;2.3;1–2;0.6;Lorient;Stade Raymond Kopa
+17;Sun;01/01/2023;15:00;Toulouse;1.1;2–0;0.0;Ajaccio;Stadium Municipal
+17;Sun;01/01/2023;15:00;Nantes;1.0;1–0;0.8;Auxerre;Stade de la Beaujoire - Louis Fonteneau
+17;Sun;01/01/2023;17:00;Lyon;0.7;0–1;1.2;Clermont Foot;Groupama Stadium
+17;Sun;01/01/2023;20:45;Lens;1.8;3–1;1.6;Paris S-G;Stade Bollaert-Delelis
+17;Mon;02/01/2023;15:00;Strasbourg;1.1;2–3;1.2;Troyes;Stade de la Meinau
+17;Mon;02/01/2023;17:00;Lille;2.3;1–1;0.8;Reims;Stade Pierre-Mauroy
+17;Mon;02/01/2023;19:00;Montpellier;1.4;1–2;1.4;Marseille;Stade de la Mosson
+17;Mon;02/01/2023;21:00;Rennes;1.9;2–1;0.4;Nice;Roazhon Park
+18;Wed;11/01/2023;19:00;Nantes;1.1;0–0;0.5;Lyon;Stade de la Beaujoire - Louis Fonteneau
+18;Wed;11/01/2023;19:00;Auxerre;1.1;0–5;2.2;Toulouse;Stade de l'Abbé Deschamps
+18;Wed;11/01/2023;19:00;Brest;0.3;0–0;0.7;Lille;Stade Francis-Le Blé
+18;Wed;11/01/2023;19:00;Clermont Foot;1.7;2–1;1.1;Rennes;Stade Gabriel Montpied
+18;Wed;11/01/2023;19:00;Ajaccio;1.0;0–1;0.9;Reims;Stade François Coty
+18;Wed;11/01/2023;21:00;Paris S-G;1.3;2–0;0.5;Angers;Parc des Princes
+18;Wed;11/01/2023;21:00;Troyes;0.2;0–2;1.9;Marseille;Stade de l'Aube
+18;Wed;11/01/2023;21:00;Nice;2.5;6–1;0.2;Montpellier;Stade de Nice
+18;Wed;11/01/2023;21:00;Strasbourg;0.8;2–2;1.9;Lens;Stade de la Meinau
+18;Wed;11/01/2023;21:00;Lorient;1.3;2–2;1.8;Monaco;Stade du Moustoir
+19;Sat;14/01/2023;17:00;Lens;2.0;1–0;0.3;Auxerre;Stade Bollaert-Delelis
+19;Sat;14/01/2023;19:00;Marseille;2.2;3–1;0.5;Lorient;Orange Vélodrome
+19;Sat;14/01/2023;21:00;Lyon;2.8;1–2;1.1;Strasbourg;Groupama Stadium
+19;Sun;15/01/2023;13:00;Lille;3.8;5–1;0.9;Troyes;Stade Pierre-Mauroy
+19;Sun;15/01/2023;15:00;Toulouse;1.4;1–1;1.0;Brest;Stadium Municipal
+19;Sun;15/01/2023;15:00;Montpellier;0.9;0–3;0.6;Nantes;Stade de la Mosson
+19;Sun;15/01/2023;15:00;Angers;0.6;1–2;1.7;Clermont Foot;Stade Raymond Kopa
+19;Sun;15/01/2023;15:00;Reims;0.9;0–0;0.8;Nice;Stade Auguste-Delaune
+19;Sun;15/01/2023;17:05;Monaco;3.7;7–1;0.3;Ajaccio;Stade Louis II
+19;Sun;15/01/2023;20:45;Rennes;0.8;1–0;1.0;Paris S-G;Roazhon Park
+20;Fri;27/01/2023;21:00;Lorient;0.9;2–1;1.5;Rennes;Stade du Moustoir
+20;Sat;28/01/2023;17:00;Troyes;1.2;1–1;2.9;Lens;Stade de l'Aube
+20;Sat;28/01/2023;21:00;Marseille;1.6;1–1;1.5;Monaco;Orange Vélodrome
+20;Sun;29/01/2023;13:00;Nice;1.6;1–0;1.6;Lille;Stade de Nice
+20;Sun;29/01/2023;15:00;Clermont Foot;0.7;0–0;0.1;Nantes;Stade Gabriel Montpied
+20;Sun;29/01/2023;15:00;Strasbourg;1.3;1–2;1.2;Toulouse;Stade de la Meinau
+20;Sun;29/01/2023;15:00;Brest;1.6;4–0;0.8;Angers;Stade Francis-Le Blé
+20;Sun;29/01/2023;15:00;Auxerre;1.8;0–2;0.7;Montpellier;Stade de l'Abbé Deschamps
+20;Sun;29/01/2023;17:05;Ajaccio;1.7;0–2;1.9;Lyon;Stade François Coty
+20;Sun;29/01/2023;20:45;Paris S-G;1.6;1–1;2.5;Reims;Parc des Princes
+21;Wed;01/02/2023;19:00;Reims;3.8;4–2;0.6;Lorient;Stade Auguste-Delaune
+21;Wed;01/02/2023;19:00;Lille;1.3;0–0;1.4;Clermont Foot;Stade Pierre-Mauroy
+21;Wed;01/02/2023;19:00;Toulouse;2.2;4–1;1.2;Troyes;Stadium Municipal
+21;Wed;01/02/2023;19:00;Angers;0.4;1–2;1.4;Ajaccio;Stade Raymond Kopa
+21;Wed;01/02/2023;19:00;Nantes;1.2;0–2;1.7;Marseille;Stade de la Beaujoire - Louis Fonteneau
+21;Wed;01/02/2023;21:00;Lens;0.6;0–1;2.1;Nice;Stade Bollaert-Delelis
+21;Wed;01/02/2023;21:00;Monaco;1.2;3–2;1.4;Auxerre;Stade Louis II
+21;Wed;01/02/2023;21:00;Montpellier;0.5;1–3;4.4;Paris S-G;Stade de la Mosson
+21;Wed;01/02/2023;21:00;Rennes;1.1;3–0;0.1;Strasbourg;Roazhon Park
+21;Wed;01/02/2023;21:00;Lyon;2.5;0–0;0.6;Brest;Groupama Stadium
+22;Sat;04/02/2023;17:00;Paris S-G;1.9;2–1;0.8;Toulouse;Parc des Princes
+22;Sat;04/02/2023;19:00;Troyes;1.0;1–3;0.8;Lyon;Stade de l'Aube
+22;Sat;04/02/2023;21:00;Rennes;1.8;1–3;2.2;Lille;Roazhon Park
+22;Sun;05/02/2023;13:00;Clermont Foot;0.4;0–2;1.4;Monaco;Stade Gabriel Montpied
+22;Sun;05/02/2023;15:00;Ajaccio;0.3;0–2;1.2;Nantes;Stade François Coty
+22;Sun;05/02/2023;15:00;Auxerre;1.2;0–0;0.6;Reims;Stade de l'Abbé Deschamps
+22;Sun;05/02/2023;15:00;Lorient;1.0;0–0;0.7;Angers;Stade du Moustoir
+22;Sun;05/02/2023;15:00;Strasbourg;0.9;2–0;0.9;Montpellier;Stade de la Meinau
+22;Sun;05/02/2023;17:05;Brest;2.0;1–1;2.5;Lens;Stade Francis-Le Blé
+22;Sun;05/02/2023;20:45;Marseille;2.3;1–3;1.4;Nice;Orange Vélodrome
+23;Fri;10/02/2023;21:00;Nice;0.6;3–0;0.4;Ajaccio;Stade de Nice
+23;Sat;11/02/2023;17:00;Monaco;2.9;3–1;0.8;Paris S-G;Stade Louis II
+23;Sat;11/02/2023;21:00;Clermont Foot;0.8;0–2;2.6;Marseille;Stade Gabriel Montpied
+23;Sun;12/02/2023;13:00;Toulouse;2.1;3–1;1.3;Rennes;Stadium Municipal
+23;Sun;12/02/2023;15:00;Angers;0.9;1–1;2.6;Auxerre;Stade Raymond Kopa
+23;Sun;12/02/2023;15:00;Montpellier;2.5;3–0;0.8;Brest;Stade de la Mosson
+23;Sun;12/02/2023;15:00;Reims;2.3;4–0;0.9;Troyes;Stade Auguste-Delaune
+23;Sun;12/02/2023;15:00;Lille;2.7;2–0;0.3;Strasbourg;Stade Pierre-Mauroy
+23;Sun;12/02/2023;17:05;Nantes;1.0;1–0;1.1;Lorient;Stade de la Beaujoire - Louis Fonteneau
+23;Sun;12/02/2023;20:45;Lyon;1.4;2–1;1.1;Lens;Groupama Stadium
+24;Fri;17/02/2023;21:00;Auxerre;1.5;2–1;0.8;Lyon;Stade de l'Abbé Deschamps
+24;Sat;18/02/2023;17:00;Nice;1.2;0–0;1.6;Reims;Stade de Nice
+24;Sat;18/02/2023;21:00;Strasbourg;1.7;2–1;1.2;Angers;Stade de la Meinau
+24;Sun;19/02/2023;13:00;Paris S-G;2.0;4–3;2.4;Lille;Parc des Princes
+24;Sun;19/02/2023;15:00;Rennes;2.4;2–0;1.1;Clermont Foot;Roazhon Park
+24;Sun;19/02/2023;15:00;Lorient;2.5;3–0;0.7;Ajaccio;Stade du Moustoir
+24;Sun;19/02/2023;15:00;Brest;0.9;1–2;1.5;Monaco;Stade Francis-Le Blé
+24;Sun;19/02/2023;15:00;Troyes;0.1;0–1;1.6;Montpellier;Stade de l'Aube
+24;Sun;19/02/2023;17:05;Lens;2.4;3–1;0.3;Nantes;Stade Bollaert-Delelis
+24;Sun;19/02/2023;20:45;Toulouse;2.0;2–3;1.0;Marseille;Stadium Municipal
+25;Fri;24/02/2023;21:00;Lille;1.0;2–1;0.2;Brest;Stade Pierre-Mauroy
+25;Sat;25/02/2023;17:00;Angers;1.5;1–3;1.1;Lyon;Stade Raymond Kopa
+25;Sat;25/02/2023;21:00;Montpellier;0.6;1–1;1.9;Lens;Stade de la Mosson
+25;Sun;26/02/2023;13:00;Lorient;1.5;0–1;0.7;Auxerre;Stade du Moustoir
+25;Sun;26/02/2023;15:00;Ajaccio;3.8;2–1;1.5;Troyes;Stade François Coty
+25;Sun;26/02/2023;15:00;Reims;2.7;3–0;1.1;Toulouse;Stade Auguste-Delaune
+25;Sun;26/02/2023;15:00;Clermont Foot;1.2;1–1;1.2;Strasbourg;Stade Gabriel Montpied
+25;Sun;26/02/2023;15:00;Nantes;2.6;0–1;1.1;Rennes;Stade de la Beaujoire - Louis Fonteneau
+25;Sun;26/02/2023;17:05;Monaco;1.0;0–3;2.3;Nice;Stade Louis II
+25;Sun;26/02/2023;20:45;Marseille;1.6;0–3;2.0;Paris S-G;Orange Vélodrome
+26;Fri;03/03/2023;21:00;Nice;1.6;1–1;0.5;Auxerre;Stade de Nice
+26;Sat;04/03/2023;17:00;Lens;0.9;1–1;1.6;Lille;Stade Bollaert-Delelis
+26;Sat;04/03/2023;21:00;Paris S-G;1.4;4–2;0.4;Nantes;Parc des Princes
+26;Sun;05/03/2023;13:00;Troyes;0.9;2–2;3.0;Monaco;Stade de l'Aube
+26;Sun;05/03/2023;15:00;Toulouse;1.0;0–1;0.8;Clermont Foot;Stadium Municipal
+26;Sun;05/03/2023;15:00;Montpellier;2.9;5–0;0.9;Angers;Stade de la Mosson
+26;Sun;05/03/2023;15:00;Reims;0.6;1–0;0.4;Ajaccio;Stade Auguste-Delaune
+26;Sun;05/03/2023;15:00;Strasbourg;1.2;0–1;0.8;Brest;Stade de la Meinau
+26;Sun;05/03/2023;17:05;Lyon;2.2;0–0;1.0;Lorient;Groupama Stadium
+26;Sun;05/03/2023;20:45;Rennes;1.0;0–1;1.6;Marseille;Roazhon Park
+27;Fri;10/03/2023;21:00;Lille;2.3;3–3;0.8;Lyon;Stade Pierre-Mauroy
+27;Sat;11/03/2023;17:00;Auxerre;0.7;0–0;0.5;Rennes;Stade de l'Abbé Deschamps
+27;Sat;11/03/2023;21:00;Brest;0.6;1–2;2.6;Paris S-G;Stade Francis-Le Blé
+27;Sun;12/03/2023;13:00;Clermont Foot;1.2;0–4;2.0;Lens;Stade Gabriel Montpied
+27;Sun;12/03/2023;15:00;Angers;1.7;0–2;1.6;Toulouse;Stade Raymond Kopa
+27;Sun;12/03/2023;15:00;Lorient;1.9;2–0;0.7;Troyes;Stade du Moustoir
+27;Sun;12/03/2023;15:00;Nantes;1.6;2–2;1.2;Nice;Stade de la Beaujoire - Louis Fonteneau
+27;Sun;12/03/2023;15:00;Ajaccio;0.2;0–1;1.0;Montpellier;Stade François Coty
+27;Sun;12/03/2023;17:05;Monaco;0.9;0–1;1.9;Reims;Stade Louis II
+27;Sun;12/03/2023;20:45;Marseille;1.6;2–2;2.1;Strasbourg;Orange Vélodrome
+28;Fri;17/03/2023;21:00;Lyon;1.4;1–1;1.7;Nantes;Groupama Stadium
+28;Sat;18/03/2023;17:00;Toulouse;2.3;0–2;1.4;Lille;Stadium Municipal
+28;Sat;18/03/2023;21:00;Lens;1.6;3–0;0.5;Angers;Stade Bollaert-Delelis
+28;Sun;19/03/2023;13:00;Ajaccio;1.1;0–2;1.1;Monaco;Stade François Coty
+28;Sun;19/03/2023;15:00;Strasbourg;2.8;2–0;0.7;Auxerre;Stade de la Meinau
+28;Sun;19/03/2023;15:00;Nice;1.2;1–1;0.7;Lorient;Stade de Nice
+28;Sun;19/03/2023;15:00;Montpellier;3.3;2–1;1.8;Clermont Foot;Stade de la Mosson
+28;Sun;19/03/2023;15:00;Troyes;1.1;2–2;1.3;Brest;Stade de l'Aube
+28;Sun;19/03/2023;17:05;Paris S-G;1.7;0–2;1.5;Rennes;Parc des Princes
+28;Sun;19/03/2023;20:45;Reims;1.6;1–2;1.2;Marseille;Stade Auguste-Delaune
+29;Fri;31/03/2023;21:00;Marseille;1.3;1–1;0.9;Montpellier;Orange Vélodrome
+29;Sat;01/04/2023;17:00;Auxerre;1.1;1–0;1.5;Troyes;Stade de l'Abbé Deschamps
+29;Sat;01/04/2023;21:00;Rennes;1.0;0–1;1.5;Lens;Roazhon Park
+29;Sun;02/04/2023;13:00;Lille;2.0;3–1;0.2;Lorient;Stade Pierre-Mauroy
+29;Sun;02/04/2023;15:00;Angers;0.9;1–1;1.5;Nice;Stade Raymond Kopa
+29;Sun;02/04/2023;15:00;Brest;1.7;3–1;1.2;Toulouse;Stade Francis-Le Blé
+29;Sun;02/04/2023;15:00;Nantes;1.3;0–3;2.2;Reims;Stade de la Beaujoire - Louis Fonteneau
+29;Sun;02/04/2023;15:00;Clermont Foot;2.4;2–1;0.4;Ajaccio;Stade Gabriel Montpied
+29;Sun;02/04/2023;17:05;Monaco;1.4;4–3;1.5;Strasbourg;Stade Louis II
+29;Sun;02/04/2023;20:45;Paris S-G;1.1;0–1;1.6;Lyon;Parc des Princes
+30;Fri;07/04/2023;21:00;Lens;1.0;2–1;0.8;Strasbourg;Stade Bollaert-Delelis
+30;Sat;08/04/2023;17:00;Angers;1.0;1–0;1.4;Lille;Stade Raymond Kopa
+30;Sat;08/04/2023;21:00;Nice;1.5;0–2;1.2;Paris S-G;Stade de Nice
+30;Sun;09/04/2023;13:00;Lyon;1.1;3–1;1.1;Rennes;Groupama Stadium
+30;Sun;09/04/2023;15:00;Montpellier;1.9;1–2;2.1;Toulouse;Stade de la Mosson
+30;Sun;09/04/2023;15:00;Reims;3.4;1–1;1.4;Brest;Stade Auguste-Delaune
+30;Sun;09/04/2023;15:00;Ajaccio;1.1;0–3;0.8;Auxerre;Stade François Coty
+30;Sun;09/04/2023;15:00;Troyes;0.4;0–2;1.3;Clermont Foot;Stade de l'Aube
+30;Sun;09/04/2023;17:05;Nantes;1.1;2–2;1.3;Monaco;Stade de la Beaujoire - Louis Fonteneau
+30;Sun;09/04/2023;20:45;Lorient;0.4;0–0;0.9;Marseille;Stade du Moustoir
+31;Fri;14/04/2023;21:00;Toulouse;1.2;1–2;2.3;Lyon;Stadium Municipal
+31;Sat;15/04/2023;17:00;Rennes;2.9;3–0;0.4;Reims;Roazhon Park
+31;Sat;15/04/2023;21:00;Paris S-G;1.2;3–1;1.8;Lens;Parc des Princes
+31;Sun;16/04/2023;13:00;Lille;2.1;2–1;0.4;Montpellier;Stade Pierre-Mauroy
+31;Sun;16/04/2023;15:00;Auxerre;2.6;2–1;0.9;Nantes;Stade de l'Abbé Deschamps
+31;Sun;16/04/2023;15:00;Strasbourg;1.6;3–1;0.4;Ajaccio;Stade de la Meinau
+31;Sun;16/04/2023;15:00;Brest;1.3;1–0;0.8;Nice;Stade Francis-Le Blé
+31;Sun;16/04/2023;15:00;Clermont Foot;2.1;2–1;0.3;Angers;Stade Gabriel Montpied
+31;Sun;16/04/2023;17:05;Monaco;1.9;3–1;1.1;Lorient;Stade Louis II
+31;Sun;16/04/2023;20:45;Marseille;3.7;3–1;0.4;Troyes;Orange Vélodrome
+32;Fri;21/04/2023;21:00;Angers;1.8;1–2;1.6;Paris S-G;Stade Raymond Kopa
+32;Sat;22/04/2023;17:00;Auxerre;1.5;1–1;2.2;Lille;Stade de l'Abbé Deschamps
+32;Sat;22/04/2023;21:00;Lens;2.3;3–0;1.6;Monaco;Stade Bollaert-Delelis
+32;Sun;23/04/2023;13:00;Reims;1.4;0–2;0.8;Strasbourg;Stade Auguste-Delaune
+32;Sun;23/04/2023;15:00;Nice;1.3;1–2;1.0;Clermont Foot;Stade de Nice
+32;Sun;23/04/2023;15:00;Ajaccio;0.3;0–0;0.6;Brest;Stade François Coty
+32;Sun;23/04/2023;15:00;Nantes;1.7;2–2;1.8;Troyes;Stade de la Beaujoire - Louis Fonteneau
+32;Sun;23/04/2023;15:00;Lorient;0.6;0–1;1.1;Toulouse;Stade du Moustoir
+32;Sun;23/04/2023;17:05;Montpellier;0.9;1–0;1.1;Rennes;Stade de la Mosson
+32;Sun;23/04/2023;20:45;Lyon;1.0;1–2;2.0;Marseille;Groupama Stadium
+33;Fri;28/04/2023;21:00;Strasbourg;1.3;1–2;0.8;Lyon;Stade de la Meinau
+33;Sat;29/04/2023;17:00;Lille;1.6;3–0;0.5;Ajaccio;Stade Pierre-Mauroy
+33;Sun;30/04/2023;13:00;Monaco;1.1;0–4;1.9;Montpellier;Stade Louis II
+33;Sun;30/04/2023;15:00;Rennes;2.1;4–2;1.0;Angers;Roazhon Park
+33;Sun;30/04/2023;15:00;Troyes;0.7;0–1;3.3;Nice;Stade de l'Aube
+33;Sun;30/04/2023;15:00;Clermont Foot;1.6;1–0;0.8;Reims;Stade Gabriel Montpied
+33;Sun;30/04/2023;17:05;Paris S-G;1.8;1–3;2.9;Lorient;Parc des Princes
+33;Sun;30/04/2023;20:45;Marseille;2.6;2–1;0.5;Auxerre;Orange Vélodrome
+33;Tue;02/05/2023;21:00;Toulouse;0.6;0–1;1.2;Lens;Stadium Municipal
+33;Wed;03/05/2023;21:00;Brest;0.6;2–0;1.0;Nantes;Stade Francis-Le Blé
+34;Sat;06/05/2023;17:00;Nice;1.6;2–1;1.3;Rennes;Stade de Nice
+34;Sat;06/05/2023;19:00;Reims;2.0;1–0;1.7;Lille;Stade Auguste-Delaune
+34;Sat;06/05/2023;21:00;Lens;0.7;2–1;1.3;Marseille;Stade Bollaert-Delelis
+34;Sun;07/05/2023;13:00;Angers;1.0;1–2;2.1;Monaco;Stade Raymond Kopa
+34;Sun;07/05/2023;15:00;Lorient;1.0;2–1;1.5;Brest;Stade du Moustoir
+34;Sun;07/05/2023;15:00;Ajaccio;0.3;0–0;1.7;Toulouse;Stade François Coty
+34;Sun;07/05/2023;15:00;Nantes;0.8;0–2;2.2;Strasbourg;Stade de la Beaujoire - Louis Fonteneau
+34;Sun;07/05/2023;15:00;Auxerre;1.2;1–1;1.5;Clermont Foot;Stade de l'Abbé Deschamps
+34;Sun;07/05/2023;17:05;Lyon;2.9;5–4;1.8;Montpellier;Groupama Stadium
+34;Sun;07/05/2023;20:45;Troyes;0.7;1–3;4.1;Paris S-G;Stade de l'Aube
+35;Fri;12/05/2023;21:00;Lens;1.5;2–1;1.7;Reims;Stade Bollaert-Delelis
+35;Sat;13/05/2023;17:00;Strasbourg;2.0;2–0;0.5;Nice;Stade de la Meinau
+35;Sat;13/05/2023;21:00;Paris S-G;2.3;5–0;0.4;Ajaccio;Parc des Princes
+35;Sun;14/05/2023;13:00;Clermont Foot;1.8;2–1;1.7;Lyon;Stade Gabriel Montpied
+35;Sun;14/05/2023;15:00;Toulouse;1.3;0–0;1.0;Nantes;Stadium Municipal
+35;Sun;14/05/2023;15:00;Montpellier;1.6;1–1;0.6;Lorient;Stade de la Mosson
+35;Sun;14/05/2023;15:00;Rennes;3.9;4–0;0.4;Troyes;Roazhon Park
+35;Sun;14/05/2023;15:00;Brest;1.6;1–0;0.6;Auxerre;Stade Francis-Le Blé
+35;Sun;14/05/2023;17:05;Monaco;0.7;0–0;0.9;Lille;Stade Louis II
+35;Sun;14/05/2023;20:45;Marseille;2.7;3–1;0.3;Angers;Orange Vélodrome
+36;Fri;19/05/2023;21:00;Lyon;2.1;3–1;1.8;Monaco;Groupama Stadium
+36;Sat;20/05/2023;17:00;Nantes;0.9;0–3;1.8;Montpellier;Stade de la Beaujoire - Louis Fonteneau
+36;Sat;20/05/2023;21:00;Lille;1.7;2–1;0.7;Marseille;Stade Pierre-Mauroy
+36;Sun;21/05/2023;13:00;Ajaccio;0.1;0–5;1.3;Rennes;Stade François Coty
+36;Sun;21/05/2023;15:00;Nice;2.2;0–0;0.8;Toulouse;Stade de Nice
+36;Sun;21/05/2023;15:00;Reims;1.5;2–2;1.2;Angers;Stade Auguste-Delaune
+36;Sun;21/05/2023;15:00;Brest;1.3;2–1;0.5;Clermont Foot;Stade Francis-Le Blé
+36;Sun;21/05/2023;15:00;Troyes;0.6;1–1;1.6;Strasbourg;Stade de l'Aube
+36;Sun;21/05/2023;17:05;Lorient;1.3;1–3;1.9;Lens;Stade du Moustoir
+36;Sun;21/05/2023;20:45;Auxerre;0.9;1–2;2.1;Paris S-G;Stade de l'Abbé Deschamps
+37;Sat;27/05/2023;21:00;Lyon;2.6;3–0;1.1;Reims;Groupama Stadium
+37;Sat;27/05/2023;21:00;Marseille;1.1;1–2;1.0;Brest;Orange Vélodrome
+37;Sat;27/05/2023;21:00;Clermont Foot;1.4;2–0;1.1;Lorient;Stade Gabriel Montpied
+37;Sat;27/05/2023;21:00;Angers;1.2;2–1;0.3;Troyes;Stade Raymond Kopa
+37;Sat;27/05/2023;21:00;Strasbourg;1.2;1–1;1.0;Paris S-G;Stade de la Meinau
+37;Sat;27/05/2023;21:00;Lens;2.3;3–0;0.2;Ajaccio;Stade Bollaert-Delelis
+37;Sat;27/05/2023;21:00;Toulouse;0.8;1–1;0.9;Auxerre;Stadium Municipal
+37;Sat;27/05/2023;21:00;Rennes;1.3;2–0;0.5;Monaco;Roazhon Park
+37;Sat;27/05/2023;21:00;Lille;2.1;2–1;1.0;Nantes;Stade Pierre-Mauroy
+37;Sat;27/05/2023;21:00;Montpellier;2.3;2–3;3.4;Nice;Stade de la Mosson
+38;Sat;03/06/2023;21:00;Lorient;0.5;2–1;1.0;Strasbourg;Stade du Moustoir
+38;Sat;03/06/2023;21:00;Ajaccio;0.1;1–0;1.4;Marseille;Stade François Coty
+38;Sat;03/06/2023;21:00;Nice;2.3;3–1;1.8;Lyon;Stade de Nice
+38;Sat;03/06/2023;21:00;Monaco;2.2;1–2;2.6;Toulouse;Stade Louis II
+38;Sat;03/06/2023;21:00;Brest;1.5;1–2;1.9;Rennes;Stade Francis-Le Blé
+38;Sat;03/06/2023;21:00;Auxerre;3.3;1–3;2.8;Lens;Stade de l'Abbé Deschamps
+38;Sat;03/06/2023;21:00;Troyes;0.4;1–1;1.4;Lille;Stade de l'Aube
+38;Sat;03/06/2023;21:00;Paris S-G;2.2;2–3;3.1;Clermont Foot;Parc des Princes
+38;Sat;03/06/2023;21:00;Reims;1.5;1–3;2.3;Montpellier;Stade Auguste-Delaune
+38;Sat;03/06/2023;21:00;Nantes;1.1;1–0;0.3;Angers;Stade de la Beaujoire - Louis Fonteneau
