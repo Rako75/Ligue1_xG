@@ -1,5 +1,5 @@
-# # xG Ligue 1 – Analyse des Écarts Attaque/Défense
-# # Visualisation des performances offensives et défensives (xG pour/contre) des équipes du Top 9 de Ligue 1 sur les trois dernières saisons.
+# xG Ligue 1 – Analyse des Écarts Attaque/Défense
+# Visualisation des performances offensives et défensives (xG pour/contre) des équipes du Top 9 de Ligue 1 sur les trois dernières saisons.
 
 # 📊 Objectif
 Ce projet permet de :
