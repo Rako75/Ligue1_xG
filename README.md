@@ -35,7 +35,7 @@ Nettoyer et transformer les données
 
 Générer les graphes individuels et groupés
 
-Exporter une image finale xG_Ligue1_Top9.png
+Exporter une image finale xG_Top9_Ligue1.png
 
 # 📌 Dépendances
 pandas, numpy, matplotlib, seaborn, PIL
