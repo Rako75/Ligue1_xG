@@ -1,4 +1,4 @@
-📊 Analyse xG des Équipes de Ligue 1 (Top 9)
+📊 #Analyse xG des Équipes de Ligue 1 (Top 9)
 Ce projet Python permet de visualiser les performances offensives et défensives (via les xG) des 9 meilleures équipes de Ligue 1 sur les saisons 2022-2023, 2023-2024 et 2024-2025. Les visualisations affichent les tendances d'Expected Goals (pour et contre) selon une moyenne glissante de 10 matchs.
 
 🖼️ Résultat
