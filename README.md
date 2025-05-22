@@ -15,9 +15,6 @@ Visualiser l’évolution xG en couleur dégradée selon l’écart attaque/déf
 Comparer les performances des clubs du Top 9
 
 # 🔧 Installation
-bash
-Copier
-Modifier
 pip install highlight_text adjustText fuzzywuzzy
 
 # 📁 Données
